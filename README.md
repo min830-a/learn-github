@@ -1,1 +1,2 @@
-Git hub 활용하기
+Git hub 활용하기      
+push pull 사용하기
